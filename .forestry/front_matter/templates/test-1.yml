@@ -9,3 +9,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- content/Block 2.md
