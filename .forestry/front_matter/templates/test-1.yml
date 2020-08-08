@@ -1,4 +1,11 @@
 ---
 label: Test 1
 hide_body: false
-fields: []
+fields:
+- name: block_11
+  type: blocks
+  label: BLock 11
+  template_types: []
+  config:
+    min: 
+    max: 
