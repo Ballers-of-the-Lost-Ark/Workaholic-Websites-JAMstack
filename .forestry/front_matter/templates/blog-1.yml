@@ -1,0 +1,7 @@
+---
+label: Blog 1
+hide_body: false
+fields:
+- type: list
+  name: block_11
+  label: block_11
