@@ -8,3 +8,5 @@ fields:
     required: false
   label: heading
   description: This is the heading.
+pages:
+- content/Contact.md
