@@ -7,4 +7,4 @@ lalalal jdfndkjnfkdjgnfkdjng ddff
 
 ddddf
 
-ddddddd
+ddddddd![](/uploads/coast.jpg)
