@@ -18,6 +18,4 @@ fields:
       format: markdown
   label: Description
 pages:
-- Post 1.md
-- content/Contact.md
 - content/Contact.md
