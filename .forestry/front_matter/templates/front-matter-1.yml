@@ -1,6 +1,7 @@
 ---
 label: Front Matter 1
 hide_body: false
+display_field: heading
 fields:
 - name: heading
   type: text
