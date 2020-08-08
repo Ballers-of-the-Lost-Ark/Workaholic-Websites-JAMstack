@@ -1,4 +1,10 @@
 ---
 label: Front Matter 1
 hide_body: false
-fields: []
+fields:
+- name: heading
+  type: text
+  config:
+    required: false
+  label: heading
+  description: This is the heading.
