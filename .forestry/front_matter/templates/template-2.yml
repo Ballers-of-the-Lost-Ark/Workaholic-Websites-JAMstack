@@ -1,13 +1,4 @@
 ---
 label: Template 2
 hide_body: true
-fields:
-- name: date
-  type: datetime
-  label: Date
-  description: The date boi
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
+fields: []
