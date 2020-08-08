@@ -3,4 +3,4 @@ block_11 = []
 draft = true
 
 +++
-xgdfgfdffff
+![](/uploads/coast.jpg)xgdfgfdffff
