@@ -8,5 +8,14 @@ fields:
     required: false
   label: heading
   description: This is the heading.
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
 pages:
 - content/Contact.md
