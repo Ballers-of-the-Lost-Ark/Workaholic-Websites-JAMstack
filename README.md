@@ -1,1 +1,1 @@
-A JAMstack port of Workaholic Websites using Hugo and Forestry.
+A port of Workaholic Websites front end to the JAMstack. Using Forestry CMS and Hugo SSG.
